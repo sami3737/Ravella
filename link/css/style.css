@@ -1,0 +1,118 @@
+body{
+	margin: 0px;
+	background-color: #343a40;
+}
+
+table
+{
+	text-align:center;
+	width: 100%;
+}
+
+.discordlink
+{
+	cursor:pointer;
+}
+
+.loginimg
+{
+	width: 100%;
+	max-width:400px
+}
+
+td:nth-child(1)
+{
+	font-size:8vw;
+}
+
+td:nth-child(2)
+{
+	font-size:6vw;
+}
+
+.okdata
+{	
+	max-width: 70%;
+}
+
+#main
+{
+    background-color: #343a40;
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.status-content
+{
+	background-color: grey;
+	border-radius: 20px;
+	width: 95%;
+}
+.fa-check{
+	color: green;
+}
+
+.fa-times{
+	color: red;	
+}
+
+.UnderStatusText{
+	font-size: 20px;
+}
+
+#login {
+    background-color: #343a40;
+    color: white;
+    height: 500px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.banner {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+}
+
+.blue{
+	color: #343a40;
+	text-decoration:none;
+}
+
+
+.discord{
+	color: #343a40;
+	text-decoration:none;
+}
+
+.blue:hover{
+    color: grey;
+}
+
+.button:hover{
+    background-color: #0a2e4e;
+}
+
+.button {
+  background-color: #0d4475;
+  color: #2f2c2e;
+  border-radius: 23px;
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  width: 850px;
+    height: 250px;
+  font-size: 60px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

@@ -1,0 +1,3 @@
+Time : 21:49:00
+SQLSTATE[HY000]: General error: 1615 Prepared statement needs to be re-prepared
+Raw SQL : SELECT * FROM social WHERE steamid = :steam

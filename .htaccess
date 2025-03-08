@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-d
+#####exclude /cp folder####
+RewriteCond %{REQUEST_URI} !^/link
+#################
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /((?!link)[^.]+)\.php
+RewriteRule ^/?(.*)\.php$ /$1 [NC,L,QSA,R=301]

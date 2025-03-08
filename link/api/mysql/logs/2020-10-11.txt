@@ -1,0 +1,27 @@
+Time : 15:47:20
+SQLSTATE[HY000]: General error: 1615 Prepared statement needs to be re-prepared
+Raw SQL : SELECT * FROM social WHERE steamid = :steam or adressip = :ip
+
+Time : 12:47:09
+SQLSTATE[HY000]: General error: 1615 Prepared statement needs to be re-prepared
+Raw SQL : SELECT * FROM social WHERE steamid = :steam
+
+Time : 09:40:05
+SQLSTATE[HY000]: General error: 1615 Prepared statement needs to be re-prepared
+Raw SQL : SELECT * FROM social WHERE steamid = :steam
+
+Time : 06:43:50
+SQLSTATE[HY000]: General error: 1615 Prepared statement needs to be re-prepared
+Raw SQL : SELECT * FROM social WHERE steamid = :steam
+
+Time : 03:42:04
+SQLSTATE[HY000]: General error: 1615 Prepared statement needs to be re-prepared
+Raw SQL : SELECT * FROM social WHERE steamid = :steam
+
+Time : 00:44:32
+SQLSTATE[HY000]: General error: 1615 Prepared statement needs to be re-prepared
+Raw SQL : SELECT * FROM social WHERE steamid = :steam or adressip = :ip
+
+Time : 00:44:13
+SQLSTATE[HY000]: General error: 1615 Prepared statement needs to be re-prepared
+Raw SQL : SELECT * FROM social WHERE steamid = :steam

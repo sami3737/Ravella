@@ -1,0 +1,2203 @@
+Time : 18:43:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:43:10
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:43:05
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:43:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:42:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:42:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:42:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:42:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:42:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:42:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:42:25
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:42:20
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:42:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:42:10
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:42:05
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:42:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:41:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:41:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:41:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:41:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:41:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:41:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:41:25
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:41:20
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:41:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:41:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:41:05
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:41:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:40:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:40:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:40:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:40:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:40:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:40:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:40:25
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:40:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:40:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:40:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:40:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:39:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:39:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:39:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:39:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:39:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:39:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:39:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:39:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:39:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:39:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:39:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:39:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:38:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:38:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:38:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:38:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:38:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:38:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:38:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:38:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:38:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:38:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:38:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:38:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:38:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:37:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:37:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:37:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:37:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:37:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:37:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:37:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:37:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:37:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:37:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:37:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:36:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:36:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:36:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:36:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:36:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:36:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:36:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:36:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:36:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:36:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:36:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:36:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:35:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:35:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:35:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:35:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:35:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:35:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:35:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:35:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:35:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:35:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:35:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:35:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:34:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:34:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:34:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:34:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:34:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:34:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:34:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:34:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:34:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:34:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:34:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:34:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:33:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:33:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:33:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:33:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:33:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:33:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:33:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:33:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:33:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:33:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:33:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:33:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:32:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:32:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:32:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:32:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:32:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:32:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:32:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:32:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:32:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:32:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:32:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:32:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:31:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:31:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:31:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:31:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:31:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:31:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:31:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:31:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:31:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:31:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:31:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:31:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:30:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:30:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:30:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:30:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:30:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:30:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:30:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:30:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:30:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:30:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:30:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:30:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:29:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:29:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:29:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:29:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:29:38
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:29:33
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:29:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:29:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:29:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:29:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:29:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:29:03
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:28:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:28:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:28:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:28:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:28:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:28:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:28:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:28:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:28:18
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:28:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:28:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:28:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:27:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:16:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:16:22
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:16:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:16:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:15:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:15:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:15:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:42
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:33
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:25
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:20
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:18
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:11
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:05
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:03
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:10:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:38
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:33
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:25
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:20
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:18
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:10
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:05
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:03
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:09:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:25
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:20
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:10
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:05
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:08:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:07:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:07:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:07:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:07:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:07:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:07:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:07:25
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:07:20
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:07:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:07:10
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:07:05
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:07:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:06:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:06:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:06:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:06:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:06:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:06:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:06:25
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:06:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:06:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:06:10
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:06:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:05:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:05:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:05:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:05:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:05:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:05:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:05:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:05:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:05:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:05:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:05:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:05:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:04:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:04:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:04:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:04:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:04:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:04:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:04:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:04:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:04:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:04:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:04:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:04:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:03:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:03:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:03:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:03:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:03:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:03:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:03:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:03:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:03:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:03:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:03:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:03:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:03:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:02:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:02:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:02:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:02:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:02:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:02:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:02:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:02:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:02:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:02:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:02:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:01:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:01:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:01:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:01:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:01:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:01:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:01:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:01:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:01:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:01:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:01:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:01:05
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:00:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:00:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:00:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:00:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:00:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:00:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:00:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:00:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:00:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:00:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:00:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 18:00:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:59:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:59:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:59:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:59:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:59:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:59:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:59:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:59:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:59:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:59:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:59:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:59:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:58:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:58:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:58:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:58:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:58:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:58:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:58:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:58:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:58:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:58:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:58:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:58:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:58:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:57:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:57:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:57:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:57:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:57:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:57:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:57:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:57:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:57:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:57:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:57:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:56:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:56:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:56:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:56:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:56:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:56:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:56:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:56:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:56:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:56:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:56:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:56:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:55:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:55:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:55:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:55:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:55:38
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:55:33
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:55:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:55:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:55:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:55:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:55:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:55:03
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:54:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:54:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:54:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:54:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:54:38
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:54:33
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:54:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:54:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:54:18
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:54:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:54:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:54:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:53:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:53:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:53:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:53:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:53:38
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:53:33
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:53:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:53:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:53:18
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:53:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:53:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:53:03
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:52:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:52:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:52:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:52:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:52:38
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:52:33
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:52:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:52:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:52:18
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:52:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:52:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:52:03
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:51:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:51:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:51:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:51:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:51:38
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:51:33
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:51:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:51:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:51:18
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:51:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:51:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:51:03
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:50:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:50:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:50:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:50:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:50:38
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:50:33
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:50:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:50:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:50:18
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:50:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:50:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:48:22
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:48:17
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:48:12
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:48:06
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:48:01
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:47:56
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:47:51
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:47:46
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:47:41
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:47:36
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:47:31
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:47:26
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:47:21
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:47:16
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:47:11
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:47:06
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:47:01
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:46:56
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:46:51
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:46:46
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:46:41
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:46:36
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:46:31
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:46:26
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:46:21
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:46:16
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:46:11
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:46:06
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:46:01
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:45:56
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:45:51
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:45:46
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:45:41
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:45:36
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:45:31
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:00:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:00:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:00:21
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:00:16
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:00:11
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:00:06
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 17:00:01
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:59:56
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:59:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:59:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:59:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:59:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:59:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:59:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:59:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:59:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:58:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:58:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:58:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:58:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:58:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:58:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:58:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:58:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:58:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:58:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:58:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:58:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:57:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:57:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:57:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:57:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:57:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:57:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:57:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:57:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:57:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:57:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:57:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:57:05
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:57:00
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:56:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:56:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:56:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:56:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:56:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:56:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:56:18
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:56:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:56:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipaddress' in 'field list'
+Raw SQL : INSERT INTO `social` (`steamid`, `ipaddress`) VALUES (:steam, :ip)
+
+Time : 16:55:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adressip' in 'where clause'
+Raw SQL : SELECT * FROM social WHERE steamid = :steam or adressip = :ip
